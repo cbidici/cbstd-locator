@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><entities>
+	<entity>
+		<entity-name>com.cbstd.locator.entity.Permission</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>168</entity-height>
+		<entity-X-Coordinate>361</entity-X-Coordinate>
+		<entity-Y-Coordinate>591</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.entity.Role</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>188</entity-height>
+		<entity-X-Coordinate>89</entity-X-Coordinate>
+		<entity-Y-Coordinate>510</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.sys.entity.impl.BaseEntity</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>70</entity-height>
+		<entity-X-Coordinate>174</entity-X-Coordinate>
+		<entity-Y-Coordinate>209</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.sys.entity.impl.I18nConfigEntity</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>148</entity-height>
+		<entity-X-Coordinate>690</entity-X-Coordinate>
+		<entity-Y-Coordinate>498</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.sys.entity.impl.I18nRemarkEntity</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>148</entity-height>
+		<entity-X-Coordinate>434</entity-X-Coordinate>
+		<entity-Y-Coordinate>16</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.sys.entity.impl.StatusEntity</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>148</entity-height>
+		<entity-X-Coordinate>356</entity-X-Coordinate>
+		<entity-Y-Coordinate>267</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.entity.BasicUserInfo</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>228</entity-height>
+		<entity-X-Coordinate>10</entity-X-Coordinate>
+		<entity-Y-Coordinate>4</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>com.cbstd.locator.entity.User</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>128</entity-height>
+		<entity-X-Coordinate>10</entity-X-Coordinate>
+		<entity-Y-Coordinate>295</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+</entities>
